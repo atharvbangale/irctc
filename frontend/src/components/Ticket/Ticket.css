@@ -1,0 +1,64 @@
+.ticket {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .ticket-header .logo {
+    width: 100%;
+    max-width: 100px;
+  }
+  
+  .ticket-header .heading {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .ticket-header .subheading {
+    font-size: 16px;
+  }
+  
+  .ticket-header .pnr {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .train-name {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .train-info {
+    font-size: 16px;
+  }
+  
+  .date-time {
+    font-size: 16px;
+  }
+  
+  .passenger-name {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .seat-no {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .fare {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  .class {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .ticket-footer .disclaimer {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  
